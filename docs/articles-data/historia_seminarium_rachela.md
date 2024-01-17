@@ -1,0 +1,268 @@
+Idźcie tedy i czyńcie uczniami wszystkie narody, chrzcząc je w imię Ojca i Syna, i Ducha Świętego, ucząc je przestrzegać wszystkiego, co wam przykazałem. A oto Ja jestem z wami po wszystkie dni aż do skończenia świata.\n\nEw. Mateusza 28,19-20\n\n11 listopada 2023 r. Seminarium Teologiczne w Ustroniu obchodziło 40 lat swojej działalności. Na uroczystości gościliśmy biskupa Kościoła Zielonoświątkowego Marka Kamińskiego, który usłużył słowem Bożym, prezbiterów okręgowych, pastorów, absolwentów, studentów Seminarium Teologicznego oraz gości z wielu zborów z Polski i Niemiec. Spotkaliśmy się w tym szczególnym dniu, by podziękować Panu Bogu za to, że prowadził, błogosławił i zaopatrywał nas przez 40 lat służby.\n\nHistoria seminarium sięga lat 80-tych, XX wieku, kiedy to pojawiła się myśl i pragnienie o zorganizowaniu szkoły – Korespondencyjnego Kursu Biblijnego w ramach Zjednoczonego Kościoła Ewangelicznego u pastorów Mariana Suskiego, Michała Hydzika, Edwarda Lorka i Kazimierza Sosulskiego. Korespondencyjny Kurs Biblijny miał służyć dwóm ugrupowaniom w ramach Zjednoczonego Kościoła Ewangelicznego o poglądach zielonoświątkowych: Stanowczym Chrześcijanom oraz Chrześcijanom Wiary Ewangelicznej. Kurs w pierwszej kolejności skierowany był do czynnych pastorów i ich zastępców, a w późniejszym czasie również do osób zaangażowanych w różne dziedziny służby w zborach m.in. liderów młodzieżowych, nauczycieli szkółek niedzielnych.\n\nZadaniem kursu miało być wyposażenie sług Bożych i usystematyzowanie wiedzy biblijnej, a także kształcenie nowych liderów w zakresie znajomości Słowa Bożego i teologii. W tym czasie istniała wielka potrzeba kształcenia biblijno – teologicznego duchownych Kościoła, którego w latach osiemdziesiątych większość pastorów nie posiadała. W przygotowanie materiałów dla Kursu zaangażowani byli między innymi: Marian Suski, Edward Lorek, Kazimierz Sosulski, Tomasz Guńka, Marek Kominek, Jolanta Kominek, Andrzej Luber. W 1983 roku założyciele Korespondencyjego Kursu Biblijnego zaproponowali Andrzejowi Luberowi, absolwentowi Chrześcijańskiej Akademii Teologicznej w Warszawie, który w listopadzie 1983 r. uzyskał tytuł magistra teologii ewangelickiej, objęcie prowadzenia Kursu, a 5 lat później, 6 marca 1988 r. został ordynowany na prezbitera Kościoła Zielonoświątkowego.\n\nOd strony dydaktycznej, ale również i finansowej Korespondencyjny Kurs Biblijny wspierali pastorzy i liderzy Zborów Bożych z Anglii, początkowo pod przewodnictwem Johna Wildrianna – dyrektora Misji Zborów Bożych w Anglii, później Rona Hibberta. Ta współpraca trwała do 1992 roku.\n\nSeminarium na początku swojej działalności nie posiadało stałej siedziby. Zjazdy studentów odbywały się w różnych regionach naszego kraju. Pierwsze zajęcia w ramach Seminarium miały miejsce w Boguszowie–Gorcach, ośrodku rekreacyjnym Kościoła Zielonoświątkowego. Następne w okolicach Warszawy i Wiśle Czarne u braterstwa Procner. W maju 1985r. prezbiter Andrzej Luber został powołany na drugiego pastora w Zborze Betel w Ustroniu. Od tego momentu, aż do chwili obecnej Zbór Betel jest siedzibą Seminarium.\n\nKorespondencyjny Kurs Biblijny w 1987 roku zmienił nazwę na Korespondencyjne Seminarium Biblijne, a od 1988 roku przyjęło nazwę Zaoczne Seminarium Teologiczne. Od 1995 roku funkcjonuje jako Seminarium Teologiczne w Ustroniu.\n\nW trakcie pracy Seminarium w latach 1991 – 1992, zaczęto kłaść większy nacisk na biblistykę i zagadnienia teologiczne.\n\nW latach 1993-1995 Seminarium otworzyło filie w Terespolu, w 2007 – 2009 r. Słupsku, 2010 – 2012 r. i w Żarach. Zaznaczyć należy, że w Seminarium studiowali również Polacy mieszkający w Anglii, Niemczech, Austrii i Czechach. W prace organizacyjne i administracyjne Seminarium zaangażowani byli również: Jolanta i Marek Kominkowie, Adam Bogusz, Marian Proszyk, pastor Józef Hydzik. Od 1988r. stałym współpracownikiem, obecnie dziekanem, został diakon Bogusław Helbin, absolwent Chrześcijańskiej Akademii Teologicznej w Warszawie. Do grona stałych pracowników 1994 roku dołączył pastor Piotr Grzesiek, absolwent Warszawskiej Szkoły Teologicznej w Warszawie. Po odejściu z Seminarium pastora Józefa Hydzika w 1996 do grona stałych pracowników dołączyła diakonisa Grażyna Luber, która zaangażowana jest w pracę Seminarium.\n\nOd września 2000 roku podjęto współpracę z Misją Pokoleń. Współpraca ta trwała do 2016 roku. W ramach zajęć z Katechetyki współpracuje z nami nadal mgr Agata Rysiewicz. W Seminarium usługiwali zagraniczni wykładowcy,  pastorzy, nauczyciele Słowa ze Zborów Bożych z Anglii jak: Artur Hibbert, Peter Johnson, Paul Newbery, Andrew Perfitt, Ian Hicks, Ernst i Andrew Shermanowie, Stefan Sos z Kanady. Po Johnie Willdriane dyrektorze Misji Zborów Bożych w Anglii, Ron Hibert był tym, który organizował przyjazd gości. Ich wykłady, znajomość i poznanie Słowa Bożego były dla uczestników niezwykle inspirujące i motywujące do służby na niwie Bożej. Z języka angielskiego na polski tłumaczyli ich pastorzy Janusz Cieplik i Leszek Mocha. Wśród polskich wykładowców należy wymienić: Michała Hydzika, Mariana Suskiego, Edwarda Lorka, Kazimierza Sosulskiego, Edwarda Czajko, Mieczysława Czajko, Józefa Hydzika, Anatola Matiaszuka, Mieczysława Kwietnia, Wojciecha Gajewskiego – naszego absolwenta, Leszka Mochę, Edwarda Pawłowskiego, Pawła Sochackiego, Mariusza Muszczyńskiego, Agatę Rysiewicz, Emanuela Machnickiego, Piotra Borka, Leszka Strączka, Andrzeja Michnika, Bogdana Kionę, Ryszarda Wołkiewicza, Stefana Tokarskiego, Pawła Kościukiewicza, Alfreda Richtera oraz braci prowadzących Seminarium: Andrzeja Lubera, Bogusława Helbina, Piotra Grześka.\n\nW pracach administracyjnych i gospodarczych Seminarium wspierali: Jan Śliwka, Grażyna Helbin, Rachela Luber, Tymoteusz Luber, Beniamin Luber, Aleksandra Luber, Hanna Śliwka, Krystyna Cieślar, Maria Legierska, Alicja Jończyk.\n\nNauka w Seminarium trwa dwa lata. Studenci spotykają się dwa razy w semestrze. Każde spotkanie seminaryjne trwa trzy dni. Podczas zajęć odbywają się wykłady, ćwiczenia i egzaminy. Każdy z semestrów poświęcony jest odrębnym zagadnieniom z teologii: teologia systematyczna, teologia praktyczna – pastoralna, wstęp do Starego Testamentu wraz z egzegezą wybranych ksiąg, wstęp do Nowego Testamentu wraz z egzegezą wybranych ksiąg. Szczególną troskę przywiązujemy do duchowego rozwoju studentów, budowania ich charakteru. Zależy nam, by zdobywane przez nich umiejętności połączone były z duchowym wzrostem i przekładały się na praktyczne służenie Kościołowi. Realizujemy to poprzez wspólną modlitwę, społeczność, rozmowy i duszpasterstwo.\n\nStudenci to nie tylko ludzie dojrzali, już znający podstawowe zagadnienia biblijne, ale to również początkujący chrześcijanie. W Seminarium ich wiedza zostaje pogłębiona i usystematyzowana. W przerwach pomiędzy zjazdami studenci piszą prace kontrolne. Zaliczone prace wraz z obecnością na zajęciach, stanowią podstawę do przystąpienia do egzaminów.\n\nNa dzień dzisiejszy Seminarium ukończyło 527 studentów. Jesteśmy wdzięczni Bogu, że absolwenci zaangażowani są w służbę w Kościele, a wielu z nich pełni służbę pastorską. 10 lat temu, Pastor Marian Suski na uroczystości 30-lecia Seminarium Teologicznego w Ustroniu, wspominał, że kiedy przedstawił na Prezydium Zjednoczonego Kościoła Ewangelicznego wniosek o utworzenie szkoły, patrzono na niego z powątpiewaniem. Jednak udało się i po wielu latach pracy Seminarium mógł zobaczyć, i widzimy to nadal, olbrzymie Boże błogosławieństwo i inspirację Ducha Świętego w wychowaniu i kształceniu tak wielu duchownych, pastorów, liderów ludzi zaangażowanych w różne dziedziny służby w Kościele.\n\nPo czterdziestu latach prowadzenia Seminarium przez prezbitera Andrzeja Lubera, na jego wniosek, który został zatwierdzony przez Senat uczelni oraz Naczelną Radę Kościoła, podczas uroczystości 40 – lecia, na nowego rektora Seminarium Teologicznego powołany został prezbiter dr Bogusław Helbin.\n\nJeśli jesteś na początku swojej drogi w służbie i pragniesz poszerzyć swoją wiedzę, a może już wiele lat służysz w Kościele i potrzebujesz usystematyzowania lub odświeżenia, to zapraszamy ciebie do Seminarium Teologicznego w Ustroniu. Wszystkie informacje znajdziesz na stronie <http://st.kz.pl>.
+
+Niech zachętą będą świadectwa absolwentów:
+
+„Wspólnie z żoną skorzy-
+staliśmy z ogromnego potencja-
+łu Seminarium Teologicznego
+w Ustroniu. Ja, absolwent Semina-
+rium ukończyłem ten piękny czas
+kilka lat temu, żona natomiast,
+obecnie jest studentką. Kiedy roz-
+poczynałem naukę, byłem liderem
+młodzieżowym Kościoła Zielo-
+noświątkowego w Poznaniu. Już
+po pierwszym zjeździe zostałem
+ogromnie „zapalony” dla Boga, co
+przełożyło się na pracę z młodzie-
+żą. Wzrost wiedzy szedł zawsze ze
+wzrostem duchowym – to chyba
+największy atut tej szkoły. Rektor
+z kadrą wykładowców, kładą na
+to ogromny nacisk. Same wykła-
+dy trwały dość długo, ale na tyle
+trafiały do studentów, że dysku-
+sje i fascynacja Bożym Słowem
+nie kończyły się wraz z dzwon-
+kiem ale trwały na przerwach
+i do późnych godzin nocnych.
+Tematy wykładów, nawet te naj-
+bardziej teologiczne, otwierały
+u mnie oczy na potęgę i mądrość
+Boga. Do dzisiaj pamiętam jeden
+z wykładów, poświęcony księdze
+Amosa. Mogłoby się wydawać,
+że to ciężki starotestamentowy
+temat. Jednak tuż po wykładzie
+ludzie wychodzili z sali zdumieni
+Bożą mądrością i z załzawiony-
+mi oczami. To było niesamowite
+przeżycie. Takich było naprawdę
+wiele. Seminarium Teologicz-
+ne w Ustroniu było kluczowym
+momentem w moim chrześci-
+jańskim życiu – to tam zostałem
+ukształtowany duchowo i teo-
+logicznie. Przez te wszystkie
+lata mogłem rozwinąć skrzydła,
+brać udział w zakładaniu dwóch
+nowych zborów w Polsce oraz
+pełnić służbę jako starszy zboru.
+Oczywiście mogę też powiedzieć,
+że kształtowały moje życie ro-
+dzinne. Po każdych takich zjaz-
+dach „musiałem” siadać w domu
+i opowiadać jak wiele się znów
+nauczyłem i jak bardzo duchowo
+się wzmocniłem. Sprawiało mi to
+oczywiście niesamowitą radość.
+To wszystko zaowocowało po
+latach, bo kiedy dzieci trochę do-
+rosły, moja żona również zapra-
+gnęła nauki w tym Seminarium.
+Dzisiaj to ona wraca i opowiada
+z fascynacją w oku czego się na-
+uczyła.
+
+Potwierdzam słowa męża.
+Dziś, kiedy jestem na kolejnych
+zjazdach w Seminarium widzę, że
+nic się nie zmieniło. Nadal stu-
+denci wychodzą z wykładów po-
+ruszeni, wzmocnieni i zachęceni
+do służby. Dla mnie momentem
+przełomowym było odkrycie, że
+życie z Bogiem nie jest nudne,
+że Bóg ma dla nas coś nowego
+i świeżego każdego dnia. Jestem
+zachęcona do życia, które będzie
+przynosiło owoc. Pokazano nam,
+że kiedy żyje się z Bogiem, to nie
+można stać w miejscu, trzeba IŚĆ
+za Nim. Jesteśmy Bogu wdzięczni
+za Seminarium w Ustroniu.”
+
+Piotr i Mariola Wojciechowscy
+
+
+„Seminarium pozwoliło mi
+uporządkować wiedzę biblijną,
+dowiedziałam się wielu rzeczy,
+których nie odkryłabym studiując
+Biblię wyłącznie samodzielnie.
+Teraz mogę się dzielić dalej tą
+
+wiedzą z innymi chrześcijana-
+mi przy okazji różnych rozmów,
+
+a także przydaje mi się ona pod-
+czas ewangelizacji ulicznych,
+
+w których często uczestniczę.
+
+W seminarium doświadczy-
+łam także zbudowania podczas
+
+wspólnego czasu modlitwy oraz
+
+wspólnie spędzonych wieczo-
+rów z pozostałymi uczestnikami.
+
+
+
+
+Polecam udział w seminarium
+każdemu, kto pragnie zgłębiać
+
+Słowo Boże i doświadczać Bo-
+żego działania.”
+
+Alicja Woźniak
+
+„Czas spędzony w Semina-
+rium Teologicznym w Ustroniu
+
+wspominam bardzo dobrze!
+
+Ogromna dawka wiedzy pozwo-
+liła mi usystematyzować pewne
+
+rzeczy w głowie, a także ukształ-
+tować mój „chrześcijański kręgo-
+słup”. Wykładowcy to wspaniali
+
+ludzie, którzy żyją z pasją dla
+naszego Boga, kochając to, co
+robią. Seminarium to również
+czas duchowego wzrostu. To
+
+miejsce w, którym mogłem po-
+znać wielu wartościowych ludzi
+
+z całej Polski. Jestem wdzięczny
+Bogu za to miejsce i ludzi, którzy
+je tworzą.”
+
+Błażej Milczarczyk
+
+„Nauka w Seminarium Teo-
+logicznym w Ustroniu była dla
+
+mnie bardzo cennym czasem.
+I to pod wieloma względami. Po
+pierwsze zależało mi na tym, aby
+usystematyzować swoją wiedzę
+
+biblijną. Kiedy bowiem rozpoczę-
+łam naukę byłam już co prawda
+
+od kilku lat osobą wierzącą w Je-
+zusa Chrystusa jako swojego Pana
+
+i Zbawiciela, ale mimo to zdawa-
+łam sobie sprawę, że wielu rzeczy
+
+nie wiem. Myślę, że na początku
+
+mojej drogi z Bogiem popełni-
+łam błąd, czytając mniej Biblii
+
+na rzecz książek chrześcijańskich.
+Okres dwóch lat w szkole był
+takim „przebywaniem w Słowie”
+i kamieniem milowym w moim
+
+rozwoju duchowym. Uczestnicze-
+nie w zjazdach, gdzie wspólnie
+
+ze studentami i wykładowcami
+
+modliliśmy się, śpiewaliśmy, słu-
+chaliśmy kazań i wykładów, prze-
+bywaliśmy po prostu w obecności
+
+Bożej przez trzy dni non stop, od-
+bierałam jako wielki przywilej, ła-
+skę i prawdziwy prezent od Pana
+
+Boga. Myślałam wtedy „wreszcie
+uczę się tego co ma naprawdę
+sens”. Ale sądzę, że strategiczna
+praca działa się we mnie podczas
+
+przygotowywania cotygodnio-
+wych zaliczeń. Czytałam i pisa-
+łam, pisałam i czytałam, płakałam
+
+i przeżywałam, nie wiedziałam co
+czytam i wiedziałam. Niektóre
+
+miejsca Słowa Bożego praw-
+dopodobnie zobaczyłam po raz
+
+pierwszy. Po skończeniu Semina-
+rium zauważyłam w sobie coś co
+
+nazwałabym głębszym pragnie-
+niem czytania Słowa z radością
+
+i ze zrozumieniem. Rozpoznałam,
+że weszłam na wyższy poziom.
+
+Dziękuję mojemu Panu, że przy-
+gotował to miejsce już wiele lat
+
+wcześniej, abym we właściwym
+czasie mogła się w nim znaleźć
+i tak dużo otrzymać. Wierzę, że
+uzyskałam solidny fundament,
+
+z którego czerpię do dzisiaj. Dzię-
+kuję Ci mój Drogi Zbawicielu.
+
+Dziękuję Wam, bracia.
+
+„O, jakże miłuję zakon Twój,
+Przez cały dzień rozmyślam o nim.
+Psalm 119,158”
+
+Mariola Bylicka
+„Jeżeli chcesz poznać lepiej
+Boże Słowo, usystematyzować
+swoją dotychczasową wiedzę, to
+
+Seminarium Teologiczne w Ustro-
+niu jest do tego odpowiednim
+
+miejscem. Dziękuję Bogu za wy-
+kładowców i ich wierną służbę.
+
+Początek mądrości jest taki:
+
+nabywaj mądrości, i za wszyst-
+ko, co masz, nabywaj rozumu!
+
+Przypowieści Salomona 4.7.
+My, chrześcijanie końca czasów
+powinniśmy mocno uchwycić
+
+się Bożego Słowa i współdzia-
+łać z Duchem Świętym abyśmy
+
+byli przygotowani do wszelkiego
+
+dobrego dzieła i gotowi na spo-
+tkanie z naszym Panem Jezusem
+
+Chrystusem. Ale ty trwaj w tym,
+czegoś się nauczył i czego pewny
+jesteś, wiedząc, od kogoś się tego
+nauczył. II Tym. 3.14”.
+Sebastian Popławski
+Jesteśmy wdzięczni Panu Bogu
+
+za Jego dzieło, którym jest Semi-
+narium Teologiczne. Wierzymy,
+
+że przed nami kolejne lata owoc-
+nej służby.
