@@ -14,7 +14,10 @@
                         <dt class="flex-[0_0_auto]"><span class="sr-only">Telephone</span>
                             <PhoneIcon class="w-6 h-7 align-middle text-gray-400" />
                         </dt>
-                        <dd><a class="" href="tel:+48 606 336 912">+48 606 336 912</a></dd>
+                        <dd>
+                            <a class="" href="tel:+48 503 769 057">+48 503 769 057</a><br/>
+                            <a class="" href="tel:+48 606 336 912">+48 606 336 912</a>
+                        </dd>
                     </div>
                     <div class="flex gap-x-4">
                         <dt class="flex-[0_0_auto]"><span class="sr-only">Email</span>

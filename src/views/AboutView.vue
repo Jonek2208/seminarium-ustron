@@ -109,6 +109,10 @@ const historia = [
         date: '2010-2012',
         title: 'Filia Seminarium w Żarach'
     },
+    {
+        date: '2021-2022',
+        title: 'Studium Kaznodziejskie I stopnia - filia w Czechowicach-Dziedzicach'
+    },
 ]
 
 </script>

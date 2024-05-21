@@ -29,14 +29,14 @@ const zjazdy: Meeting[] = [
     //     from: new Date('2023-11-09'),
     //     to: new Date('2023-11-11')
     // },
-    {
-        from: new Date('2024-02-22'),
-        to: new Date('2024-02-24')
-    },
-    {
-        from: new Date('2024-05-16'),
-        to: new Date('2024-05-18')
-    },
+    // {
+    //     from: new Date('2024-02-22'),
+    //     to: new Date('2024-02-24')
+    // },
+    // {
+    //     from: new Date('2024-05-16'),
+    //     to: new Date('2024-05-18')
+    // },
     {
         from: new Date('2024-08-29'),
         to: new Date('2024-08-31')
