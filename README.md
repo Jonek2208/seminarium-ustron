@@ -1,4 +1,4 @@
-# seminarium-ustron
+# Seminarium Teologiczne w Ustroniu
 
 http://st.kz.pl/
 
