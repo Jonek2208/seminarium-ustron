@@ -14,20 +14,18 @@
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="lg:flex flex-row">
         <img
-          src="/photos/zjazd_maj_2024.jpg"
+          src="/photos/zakonczenie2026/photo1.jpg"
           class="mr-20 max-h-96 pb-4"
           alt=""
         />
         <div class="mx-auto max-w-2xl lg:mx-0 text-base text-white">
-          <h1 class="text-4xl font-semibold">Zjazd seminaryjny maj 2024</h1>
+          <h1 class="text-4xl font-semibold">Zjazd seminaryjny luty 2026</h1>
           <!-- <h2 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">40-lecie Seminarium Teologicznego w Ustroniu</h2> -->
           <p class="mt-6 text-lg leading-8">
-            W dniach 16-18 maja 2024 odbył się drugi zjazd seminaryjny w roku 2024. Wykłady poruszały zagadnienia nowotestamentowe.
+            W dniach 26-28 lutego odbył się pierwszy zjazd seminaryjny...
           </p>
           <div class="text-slate-200 mt-10 py-4 text-2xl font-semibold">
-            <a href="/artykul/zjazd-maj-2024"
-              >Zobacz więcej <span aria-hidden="true">&rarr;</span></a
-            >
+            <a href="/artykul/zjazd-luty-2026">Zobacz więcej <span aria-hidden="true">&rarr;</span></a>
           </div>
         </div>
       </div>
@@ -64,7 +62,7 @@
 import ArticleMiniature from "../components/ArticleMiniature.vue";
 import { people, articles } from "../data";
 import type { Person } from "../data";
-
+// const maxArticles = 3;
 let articlesUnpacked: {
   title: string;
   content: string;
@@ -85,5 +83,6 @@ for (let article of articles) {
       tags: article.tags,
     });
   }
+  // if (articlesUnpacked.length >= maxArticles) break;
 }
 </script>

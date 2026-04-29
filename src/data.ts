@@ -28,8 +28,9 @@ export type Article = {
 export const people: Person[] = [
   new Person("Bogusław Helbin", "Rektor", "helbin-boguslaw", "helbin-boguslaw-2", true),
   new Person("Andrzej Luber", "Dziekan", "luber-andrzej", "luber-andrzej-2", true),
-  new Person("Piotr Grzesiek", "Dziekan", "grzesiek-piotr", "grzesiek-piotr-2", true),
+  new Person("Paweł Sochacki", "Dziekan", "pawel-sochacki", "sochacki", true),
   new Person("Grażyna Luber", "Księgowa", "luber-grazyna", "luber-grazyna-2", true),
+  new Person("Piotr Grzesiek", "Wykładowca, dziekan w latach 1994-2024", "grzesiek-piotr", "grzesiek-piotr-2", true),
   new Person("Rachela Luber", "Autor", "luber-rachela", "luber-rachela"),
 ];
 
@@ -43,6 +44,92 @@ export function* getStaff() {
 
 export const articles: Article[] = [
   {
+    articleId: "zjazd-luty-2026",
+    authorId: "helbin-boguslaw",
+    title: "Zjazd seminaryjny luty 2026",
+    date: new Date("2026-04-04"),
+    tags: ['Aktualności'],
+    path: "",
+    images: [
+      "/photos/zakonczenie2026/photo1.jpg",
+      "/photos/zakonczenie2026/photo4.jpg",
+      "/photos/zakonczenie2026/photo7.jpg",
+      "/photos/zakonczenie2026/photo6.jpg",
+      "/photos/zakonczenie2026/photo3.jpg",
+      "/photos/zakonczenie2026/photo5.jpg",
+      "/photos/zakonczenie2026/photo2.jpg",
+      "/photos/zakonczenie2026/photo8.jpg",
+    ],
+    content:
+`Ostatnie dni lutego były czasem pierwszego zjazdu seminaryjnego w roku 2026. 26 lutego odbyła się rekrutacja, w wyniku której przyjęliśmy 28 nowych seminarzystów. W sobotę 28 lutego miało miejsce uroczyste zakończenie nauki przez 11 studentów. Nabożeństwo kończące dwuletni cykl nauki rozpoczęliśmy czasem uwielbienia, następnie biskup Marek Kamiński podzielił się przesłaniem do absolwentów. Uroczystość zakończyło wręczenie świadectw ukończenia Seminarium. Życzymy absolwentom wiele radości i wytrwałości w służbie dla Pana.`,
+  },  
+    {
+    articleId: "zjazd-listopad-2025",
+    authorId: "helbin-boguslaw",
+    title: "Zjazd seminaryjny listopad 2025",
+    date: new Date("2025-11-11"),
+    tags: ['Aktualności'],
+    path: '',
+    images: [
+      '/photos/listopad2025/photo1.jpg',
+      '/photos/listopad2025/photo2.jpg',
+      '/photos/listopad2025/photo3.jpg',
+      '/photos/listopad2025/photo4.jpg',
+      '/photos/listopad2025/photo5.jpg',
+      '/photos/listopad2025/photo6.jpg',
+      '/photos/listopad2025/photo7.jpg',
+      '/photos/listopad2025/photo8.jpg',
+      '/photos/listopad2025/photo9.jpg',
+      '/photos/listopad2025/photo10.jpg',
+      '/photos/listopad2025/photo11.jpg',
+      '/photos/listopad2025/photo12.jpg',
+      '/photos/listopad2025/photo13.jpg',
+      '/photos/listopad2025/photo14.jpg',
+      '/photos/listopad2025/photo15.jpg',
+    ],
+    content: `Jesienny zjazd seminaryjny był bogaty w treści, które obejmowały m.in. prowadzenie nabożeństw, rozmowę z osobami uzależnionymi i prowadzeniu zajęć z dziećmi. Gościliśmy pastorów Jarosława Wasilewskiego oraz Alfreda Richtera, a także Elę Frydę ze Stowarzyszenia MED.`
+  },  
+  {
+    articleId: "zjazd-luty-2025",
+    authorId: "helbin-boguslaw",
+    title: "Zjazd seminaryjny luty 2025",
+    date: new Date("2025-03-14"),
+    tags: ['Aktualności'],
+    path: '',
+    images: [
+      '/photos/zakonczenie2025/DSC08015.jpg',
+      '/photos/zakonczenie2025/DSC08017.jpg',
+      '/photos/zakonczenie2025/DSC08018.jpg',
+      '/photos/zakonczenie2025/DSC08021.jpg',
+      '/photos/zakonczenie2025/DSC08024.jpg',
+      '/photos/zakonczenie2025/DSC08030.jpg',
+      '/photos/zakonczenie2025/DSC08050.jpg',
+      '/photos/zakonczenie2025/DSC08064.jpg',
+      '/photos/zakonczenie2025/DSC08066.jpg',
+      '/photos/zakonczenie2025/DSC08110.jpg',
+    ],
+    content: `Pierwszy zjazd w 2025 roku był czasem przyjęcia 23 nowych seminarzystów. Rozpoczęliśmy dział teologii systematycznej, a wykłady były poświęcone nauce o Biblii, o Bogu i złożoności zagadnień eschatologicznych.`
+  },  
+  {
+    articleId: "zjazd-sierpien-2024",
+    authorId: "helbin-boguslaw",
+    title: "Zjazd seminaryjny sierpień 2024",
+    date: new Date("2024-09-10"),
+    tags: ['Aktualności'],
+    path: '',
+    images: [
+      "/photos/zjazd_sierpien_2024.jpeg",
+    ],
+    content: `Pierwszy zjazd semestru jesiennego 2024 miał miejsce w dniach 29 - 31 sierpnia 2024 r.
+Tematem wykładów był Stary Testament.
+
+Poszczególne dni przedstawiały się następująco
+ - Czwartek - Piotr Borek - Historia Izraela
+ - Piątek - Paweł Sochacki - Przegląd ksiąg Starego Testamentu
+ - Sobota - Jonasz Oświeciński - Język i alfabet hebrajski
+`
+  },
+  {
     articleId: "zjazd-maj-2024",
     authorId: "helbin-boguslaw",
     title: "Zjazd seminaryjny maj 2024",
@@ -53,7 +140,13 @@ export const articles: Article[] = [
       "/photos/zjazd_maj_2024.jpg",
       "/photos/zjazd_maj_2024_2.jpg",
     ],
-    content: `W dniach 16-18 maja 2024 odbył się drugi zjazd seminaryjny w roku 2024. Wykłady poruszały zagadnienia nowotestamentowe.\n\nWykładowcami byli:\n- Piotr Grzesiek - List do Filipian\n- Andrzej Luber - Antynomizm w Kościele I wieku\n- Edward Lorek - List do Hebrajczyków\n- Bogusław Helbin - List Jakuba`
+    content: `W dniach 16-18 maja 2024 odbył się drugi zjazd seminaryjny w roku 2024. Wykłady poruszały zagadnienia nowotestamentowe.
+    
+Wykładowcami byli:
+ - Piotr Grzesiek - List do Filipian
+ - Andrzej Luber - Antynomizm w Kościele I wieku
+ - Edward Lorek - List do Hebrajczyków
+ - Bogusław Helbin - List Jakuba`
   },
   {
     articleId: "zjazd-luty-2024",
@@ -63,15 +156,16 @@ export const articles: Article[] = [
     tags: ['Aktualności'],
     path: "blogoslawienstwo_dziecka.md",
     images: [
-      "/photos/zakonczenie2024/DSC06915-x.JPG",
-      "/photos/zakonczenie2024/DSC06917-x.JPG",
-      "/photos/zakonczenie2024/DSC05283.JPG",
+      "/photos/zakonczenie2024/DSC06915-x.jpg",
+      "/photos/zakonczenie2024/DSC06917-x.jpg",
+      "/photos/zakonczenie2024/DSC05283.jpg",
       "/photos/zakonczenie2024/absolwenci.jpg",
-      "/photos/zakonczenie2024/DSC05290.JPG",
-      "/photos/zakonczenie2024/DSC05298.JPG",
+      "/photos/zakonczenie2024/DSC05290.jpg",
+      "/photos/zakonczenie2024/DSC05298.jpg",
     ],
     content:
-      "22 lutego 2024 r. 16 nowych studentów rozczęło naukę w Seminarium.\n\n24 lutego 2024 r. miało miejsce uroczyste zakończenie nauki czwórki wspaniałych absolwentów Seminarium Teologicznego w Ustroniu.",
+`22 lutego 2024 r. 16 nowych studentów rozczęło naukę w Seminarium.      
+24 lutego 2024 r. miało miejsce uroczyste zakończenie nauki czwórki wspaniałych absolwentów Seminarium Teologicznego w Ustroniu.`,
   },
   {
     articleId: "rekrutacja-2024",
@@ -81,7 +175,24 @@ export const articles: Article[] = [
     tags: ["Informacje"],
     path: "nabor2024.md",
     content:
-      "Zapraszamy do nauki w Seminarium wszystkich, którzy pragną pogłębić poznanie Boga i Jego Słowa.\n\nPrzyjęcia do Seminarium odbędą się **22 lutego 2024 roku** w godzinach **od 8:00 do 10:00 w siedzibie Seminarium** (43-450 Ustroń ul. Daszyńskiego 75). Osoby, które złożą wymagane dokumenty pozostaną na zajęciach seminaryjnych w dniach **22-24 lutego 2024**.\n\nAby rozpocząć naukę należy wysłać skan wypełnionej <a href='/study-resources/ankieta.pdf'>ankiety</a> na adres <semteolustron@interia.pl>. **Dwa zdjęcia formatu 4,5x6,5 cm** należy dostarczyć osobiście w dniu przyjęcia do Seminarium.\n\nNauka w Seminarium trwa 2 lata i jest podzielona na 4 semestry. W każdym semestrze odbywają się dwa spotkania trwające trzy dni (od czwartku do soboty). Kolejne zjazdy seminaryjne w roku bieżącym planowane są w terminach: 16 - 18 maja, 29 - 31 sierpnia, 7 - 9 listopada.\n\nOfiara za naukę w Seminarium wynosi **600 zł za semestr** i obejmuje opłaty za noclegi, wyżywienie oraz koszty administracyjne. Ofiara za korzystanie z Biblioteki wynosi **50 zł za cały okres nauki**.\n\nJeśli pragniesz umocnić relację z Bogiem i stać się bardziej użytecznym w służbie dla Pana to zapraszamy Cię do nauki w Seminarium Teologicznym w Ustroniu.\n\n---\n\nDodatkowe informacje można uzyskać pod numerami telefonów:\n\n - <a href='tel:+48606336912'>606 336 912</a> - Andrzej Luber\n\n - <a href='tel:+48503769057'>503 769 057</a> - Bogusław Helbin\n\n - <a href='tel:+48507402067'>507 402 067</a> - Piotr Grzesiek",
+`Zapraszamy do nauki w Seminarium wszystkich, którzy pragną pogłębić poznanie Boga i Jego Słowa.
+
+Przyjęcia do Seminarium odbędą się **22 lutego 2024 roku** w godzinach **od 8:00 do 10:00 w siedzibie Seminarium** (43-450 Ustroń ul. Daszyńskiego 75). Osoby, które złożą wymagane dokumenty pozostaną na zajęciach seminaryjnych w dniach **22-24 lutego 2024**.
+
+Aby rozpocząć naukę należy wysłać skan wypełnionej <a href='/study-resources/ankieta.pdf'>ankiety</a> na adres <semteolustron@interia.pl>. **Dwa zdjęcia formatu 4,5x6,5 cm** należy dostarczyć osobiście w dniu przyjęcia do Seminarium.
+
+Nauka w Seminarium trwa 2 lata i jest podzielona na 4 semestry. W każdym semestrze odbywają się dwa spotkania trwające trzy dni (od czwartku do soboty). Kolejne zjazdy seminaryjne w roku bieżącym planowane są w terminach: 16 - 18 maja, 29 - 31 sierpnia, 7 - 9 listopada.
+
+Ofiara za naukę w Seminarium wynosi **600 zł za semestr** i obejmuje opłaty za noclegi, wyżywienie oraz koszty administracyjne. Ofiara za korzystanie z Biblioteki wynosi **50 zł za cały okres nauki**.
+
+Jeśli pragniesz umocnić relację z Bogiem i stać się bardziej użytecznym w służbie dla Pana to zapraszamy Cię do nauki w Seminarium Teologicznym w Ustroniu.
+
+---
+
+Dodatkowe informacje można uzyskać pod numerami telefonów:
+- <a href='tel:+48606336912'>606 336 912</a> - Andrzej Luber
+- <a href='tel:+48503769057'>503 769 057</a> - Bogusław Helbin
+- <a href='tel:+48507402067'>507 402 067</a> - Piotr Grzesiek`,
       images: ['/photos/rekrutacja/image1.png', '/photos/rekrutacja/image2.png', '/photos/rekrutacja/image3.png',]
   },
   {

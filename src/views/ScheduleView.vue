@@ -24,19 +24,19 @@ import SectionTemplate from '../components/SectionTemplate.vue';
 
 type Meeting = { from: Date, to: Date }
 
-const zjazdy: Meeting[] = [
-    // {
-    //     from: new Date('2023-11-09'),
-    //     to: new Date('2023-11-11')
-    // },
-    // {
-    //     from: new Date('2024-02-22'),
-    //     to: new Date('2024-02-24')
-    // },
-    // {
-    //     from: new Date('2024-05-16'),
-    //     to: new Date('2024-05-18')
-    // },
+const zjazdyAll: Meeting[] = [
+    {
+        from: new Date('2023-11-09'),
+        to: new Date('2023-11-11')
+    },
+    {
+        from: new Date('2024-02-22'),
+        to: new Date('2024-02-24')
+    },
+    {
+        from: new Date('2024-05-16'),
+        to: new Date('2024-05-18')
+    },
     {
         from: new Date('2024-08-29'),
         to: new Date('2024-08-31')
@@ -44,8 +44,42 @@ const zjazdy: Meeting[] = [
     {
         from: new Date('2024-11-07'),
         to: new Date('2024-11-09')
-    }
+    },
+    {
+        from: new Date('2025-02-27'),
+        to: new Date('2025-03-01')
+    },
+    {
+        from: new Date('2025-05-22'),
+        to: new Date('2025-05-24')
+    },
+    {
+        from: new Date('2025-09-04'),
+        to: new Date('2025-09-06')
+    },
+    {
+        from: new Date('2025-11-06'),
+        to: new Date('2025-11-08')
+    },
+    {
+        from: new Date('2026-02-26'),
+        to: new Date('2026-02-28')
+    },
+    {
+        from: new Date('2026-05-28'),
+        to: new Date('2026-05-30')
+    },
+    {
+        from: new Date('2026-09-03'),
+        to: new Date('2026-09-05')
+    },
+    {
+        from: new Date('2026-11-12'),
+        to: new Date('2026-11-14')
+    },
 ]
+
+const zjazdy: Meeting[] = zjazdyAll.filter(x => x.to > new Date()).sort()
 
 function nextDay(date: Date) {
     const year = date.getFullYear()

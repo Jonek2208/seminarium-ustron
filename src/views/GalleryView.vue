@@ -26,6 +26,14 @@ onMounted(async () => {
 
 const data = [
     {
+        imageSrc: '/photos/zakonczenie2025/DSC08050.jpg',
+        name: 'Zakończenie 2025'
+    },
+    {
+        imageSrc: '/photos/zakonczenie2024/absolwenci.jpg',
+        name: 'Zakończenie 2024'
+    },
+    {
         imageSrc: '/photos/2023.jpg',
         name: 'Zakończenie 2023'
     },

@@ -1,5 +1,5 @@
 <template>
-    <SectionTemplate title="Rekrutacja 2024">
+    <SectionTemplate title="Rekrutacja 2026">
         <div class="gap-8">
             <p class="w-auto">
                 Jeśli pragniesz pogłębić swoje poznanie Boga i Jego Słowa, umocnić relację z Bogiem, stać się bardziej
@@ -25,7 +25,7 @@
         </div>
         <div class="my-4 space-y-2">
             <p>
-                Przyjęcia do Seminarium odbędą się <time class="font-semibold" datetime="2024-02-22">22 lutego 2024 r. w
+                Przyjęcia do Seminarium odbędą się <time class="font-semibold" datetime="2026-02-26">26 lutego 2026 r. w
                     godzinach od 8:00 do
                     10:00</time> w siedzibie
                 Seminarium.
@@ -35,14 +35,10 @@
                 ankieta, dwa zdjęcia formatu jak na dyplom.
             </p>
             <p>
-                Osoby, które złożą wymagane dokumenty pozostaną na wykładach seminaryjnych w dniach: <strong>22 lutego -
-                    24 lutego 2024
-                    r.</strong>
+                Osoby, które złożą wymagane dokumenty pozostaną na wykładach seminaryjnych w dniach: <strong>26 - 28 lutego 2026 r.</strong>
             </p>
             <p>
-                Ofiara za naukę w Seminarium wynosi <strong>600 zł za semestr</strong> (obejmuje opłaty za noclegi,
-                wyżywienie i koszty
-                administracyjne). Ofiara za korzystanie z biblioteki wynosi 50 zł - płatna jednorazowo.
+                Ofiara za naukę w Seminarium wynosi <strong>700 zł za semestr</strong> (obejmuje opłaty za noclegi, wyżywienie i koszty administracyjne). Ofiara za korzystanie z biblioteki wynosi 50 zł - płatna jednorazowo.
             </p>
         </div>
         <div class="my-4">
@@ -50,15 +46,14 @@
                 Dodatkowe informacje można uzyskać pod numerami telefonów:
             </p>
             <ul class="list-disc pl-5">
-                <li><a class="text-indigo-700 font-medium" href="tel:+48 606 336 912">606 336 912</a> - Andrzej Luber</li>
                 <li><a class="text-indigo-700 font-medium" href="tel:+48 503 769 057">503 769 057</a> - Bogusław Helbin</li>
-                <li><a class="text-indigo-700 font-medium" href="tel:+48 507 402 067">507 402 067</a> - Piotr Grzesiek</li>
+                <li><a class="text-indigo-700 font-medium" href="tel:+48 606 336 912">606 336 912</a> - Andrzej Luber</li>
             </ul>
         </div>
 
         <div class="space-y-4">
             <p>
-                Prosimy o dostarczenie ankiety na adres <a class="text-indigo-700 font-semibold"
+                Prosimy o dostarczenie ankiety <a class="text-indigo-700 font-semibold"
                     href="/study-resources/ankieta.pdf">(do pobrania tutaj)</a> na
                 adres:
             </p>

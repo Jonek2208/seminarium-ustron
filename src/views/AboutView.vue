@@ -62,8 +62,8 @@
                             class="w-32 h-32 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
                             :src="person.imageUrl()">
                         <div class="flex-grow">
-                            <p class="text-indigo-600">{{ person.title }}</p>
                             <h2 class="text-gray-900 title-font font-medium">{{ person.name }}</h2>
+                            <p class="text-indigo-600">{{ person.title }}</p>
                         </div>
                     </div>
                 </div>
