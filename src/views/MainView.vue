@@ -14,18 +14,19 @@
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="lg:flex flex-row">
         <img
-          src="/photos/zakonczenie2026/photo1.jpg"
+          src="/photos/zakonczenie2026/photo4.jpg"
           class="mr-20 max-h-96 pb-4"
           alt=""
         />
         <div class="mx-auto max-w-2xl lg:mx-0 text-base text-white">
-          <h1 class="text-4xl font-semibold">Zjazd seminaryjny luty 2026</h1>
+          <h1 class="text-4xl font-semibold">Rekrutacja na lata 2027-2029</h1>
           <!-- <h2 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">40-lecie Seminarium Teologicznego w Ustroniu</h2> -->
           <p class="mt-6 text-lg leading-8">
-            W dniach 26-28 lutego odbył się pierwszy zjazd seminaryjny...
+            Przyjęcia do Seminarium odbędą się 4 marca 2027 roku w godzinach od 8:00 do 10:00 w siedzibie Seminarium (43-450 Ustroń ul. Daszyńskiego 75). Osoby, które złożą wymagane dokumenty <a class="text-indigo-300 font-semibold"
+                        href="/study-resources/ankieta.pdf">(pobierz ankietę)</a> pozostaną na zajęciach seminaryjnych w dniach 4 - 6 marca 2027
           </p>
           <div class="text-slate-200 mt-10 py-4 text-2xl font-semibold">
-            <a href="/artykul/zjazd-luty-2026">Zobacz więcej <span aria-hidden="true">&rarr;</span></a>
+            <a href="/rekrutacja">Zobacz więcej <span aria-hidden="true">&rarr;</span></a>
           </div>
         </div>
       </div>

@@ -77,6 +77,22 @@ const zjazdyAll: Meeting[] = [
         from: new Date('2026-11-12'),
         to: new Date('2026-11-14')
     },
+    {
+        from: new Date('2027-03-04'),
+        to: new Date('2027-03-06'),
+    },
+    {
+        from: new Date('2027-05-13'),
+        to: new Date('2027-05-15'),
+    },
+    {
+        from: new Date('2027-09-02'),
+        to: new Date('2027-09-04'),
+    },
+    {
+        from: new Date('2027-11-11'),
+        to: new Date('2027-11-13'),
+    },
 ]
 
 const zjazdy: Meeting[] = zjazdyAll.filter(x => x.to > new Date()).sort()

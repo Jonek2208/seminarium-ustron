@@ -1,5 +1,5 @@
 <template>
-    <SectionTemplate title="Rekrutacja 2026">
+    <SectionTemplate title="Rekrutacja 2027">
         <div class="gap-8">
             <p class="w-auto">
                 Jeśli pragniesz pogłębić swoje poznanie Boga i Jego Słowa, umocnić relację z Bogiem, stać się bardziej
@@ -12,7 +12,7 @@
             <p>
                 Nauka w Seminarium trwa dwa lata i podzielona jest na cztery semestry. W każdym semestrze odbywają się
                 dwa spotkania trwające trzy dni (od czwartku do soboty). Spotkania seminaryjne odbywają się w
-                miesiącach: luty, maj, wrzesień, listopad.
+                miesiącach: luty/marzec, maj, wrzesień, listopad.
             </p>
             <h2 class="title-font font-medium mt-4">Warunki przyjęcia do Seminarium:</h2>
             <ul class=" list-disc pl-5">
@@ -25,7 +25,7 @@
         </div>
         <div class="my-4 space-y-2">
             <p>
-                Przyjęcia do Seminarium odbędą się <time class="font-semibold" datetime="2026-02-26">26 lutego 2026 r. w
+                Przyjęcia do Seminarium odbędą się <time class="font-semibold" datetime="2027-03-04">4 marca 2027 r. w
                     godzinach od 8:00 do
                     10:00</time> w siedzibie
                 Seminarium.
@@ -35,7 +35,7 @@
                 ankieta, dwa zdjęcia formatu jak na dyplom.
             </p>
             <p>
-                Osoby, które złożą wymagane dokumenty pozostaną na wykładach seminaryjnych w dniach: <strong>26 - 28 lutego 2026 r.</strong>
+                Osoby, które złożą wymagane dokumenty pozostaną na wykładach seminaryjnych w dniach: <strong>4 - 6 marca 2027 r.</strong>
             </p>
             <p>
                 Ofiara za naukę w Seminarium wynosi <strong>700 zł za semestr</strong> (obejmuje opłaty za noclegi, wyżywienie i koszty administracyjne). Ofiara za korzystanie z biblioteki wynosi 50 zł - płatna jednorazowo.
