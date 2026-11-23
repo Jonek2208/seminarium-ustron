@@ -6,7 +6,7 @@
                     <div class="flex-grow">
                         <h2 class="text-gray-900 text-lg title-font font-medium mb-3">{{ item.name }}</h2>
                         <!-- <p class="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.</p> -->
-                        <a class="mt-3 text-indigo-500 flex items-center" :href="item.path">{{ getFileName(item.path) }}
+                        <a class="mt-3 text-indigo-500 flex items-center" :href="item.path" target="_blank" rel="noopener">{{ getFileName(item.path) }}
                             <DocumentArrowDownIcon class="h-6 pl-2" />
                         </a>
                     </div>

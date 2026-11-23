@@ -23,7 +23,7 @@
           <!-- <h2 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">40-lecie Seminarium Teologicznego w Ustroniu</h2> -->
           <p class="mt-6 text-lg leading-8">
             Przyjęcia do Seminarium odbędą się 4 marca 2027 roku w godzinach od 8:00 do 10:00 w siedzibie Seminarium (43-450 Ustroń ul. Daszyńskiego 75). Osoby, które złożą wymagane dokumenty <a class="text-indigo-300 font-semibold"
-                        href="/study-resources/ankieta.pdf">(pobierz ankietę)</a> pozostaną na zajęciach seminaryjnych w dniach 4 - 6 marca 2027
+                        href="/study-resources/ankieta.pdf" target="_blank" rel="noopener">(pobierz ankietę)</a> pozostaną na zajęciach seminaryjnych w dniach 4 - 6 marca 2027
           </p>
           <div class="text-slate-200 mt-10 py-4 text-2xl font-semibold">
             <a href="/rekrutacja">Zobacz więcej <span aria-hidden="true">&rarr;</span></a>

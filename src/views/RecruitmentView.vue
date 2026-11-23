@@ -20,7 +20,7 @@
                 <li>staż wiary min. 1 rok po chrzcie</li>
                 <li>pozytywna opinia pastora</li>
                 <li>złożenie wymaganych dokumentów <a class="text-indigo-700 font-semibold"
-                        href="/study-resources/ankieta.pdf">(pobierz ankietę)</a></li>
+                        href="/study-resources/ankieta.pdf" target="_blank" rel="noopener">(pobierz ankietę)</a></li>
             </ul>
         </div>
         <div class="my-4 space-y-2">
@@ -54,7 +54,7 @@
         <div class="space-y-4">
             <p>
                 Prosimy o dostarczenie ankiety <a class="text-indigo-700 font-semibold"
-                    href="/study-resources/ankieta.pdf">(do pobrania tutaj)</a> na
+                    href="/study-resources/ankieta.pdf" target="_blank" rel="noopener">(do pobrania tutaj)</a> na
                 adres:
             </p>
             <p>
